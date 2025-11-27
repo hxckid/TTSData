@@ -1,4 +1,11 @@
-﻿[
+[
+    {
+        "id":  4104,
+        "q":  "Строительной бригаде необходимо зашпатлевать и покрасить водно-дисперсионной краской стены в комнатах и коридорах нового многоквартирного дома.  Предложите системы (шпатлёвка + краска), подходящие для этой задачи.",
+        "a":  "Finncolor FinnFiller + Finncolor Oasis Kitchen&Gallery\nFinncolor FinnFiller + Finncolor Oasis Hall&Office\nFinncolor FinnFiller + Finncolor Oasis Wallpaper",
+        "d":  "13102025",
+        "t":  2
+    },
     {
         "id":  4103,
         "q":  "Покупатель хочет покрасить стены в спальне. Стены из вагонки, вагонка ничем не окрашена. Краска нужна кроющая, на водной основе. Какие продукты можно предложит?",
@@ -22,7 +29,7 @@
     },
     {
         "id":  4100,
-        "q":  "Выберите утверждения, которые верны для Finncolor Oasis Hall\u0026Office:",
+        "q":  "Выберите утверждения, которые верны для Finncolor Oasis Hall&Office:",
         "a":  "Степень блеска - глубокоматовая\n2-й класс стойкости к истиранию",
         "d":  "04122024",
         "t":  2
@@ -86,7 +93,7 @@
     {
         "id":  4091,
         "q":  "Бригаде маляров нужна краска для покраски бетонного потолка в торговом помещении. Краска будет колероваться в тёмный оттенок. Степень блеска не имеет значения. Какие варианты можно предложить?",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery\nFinncolor Oasis Hall\u0026Office\n",
+        "a":  "Finncolor Oasis Kitchen&Gallery\nFinncolor Oasis Hall&Office\n",
         "d":  "12122022",
         "t":  2
     },
@@ -107,21 +114,21 @@
     {
         "id":  4088,
         "q":  "Покупатель ищет краску для кирпичной стены в гостиной. Ему хочется, чтобы покрытие было глубокоматовым и устойчивым к мытью влажной губкой (2-й класс стойкости или выше). Какие продукты можно предложить?",
-        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall\u0026Office\n",
+        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall&Office\n",
         "d":  "13012023",
         "t":  2
     },
     {
         "id":  4087,
         "q":  "Покупателю нужна глубокоматовая краска для окраски оштукатуренных стен в подсобном помещении магазина. Какие продукты можно предложить?",
-        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall\u0026Office\n",
+        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall&Office\n",
         "d":  "16102022",
         "t":  2
     },
     {
         "id":  4086,
         "q":  "Покупателю нужен продукт для окраски кирпичных стен в жилом помещении. Какие продукты Finncolor можно предложить?",
-        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen\u0026Gallery\nFinncolor Oasis Wallpaper",
+        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen&Gallery\nFinncolor Oasis Wallpaper",
         "d":  "05032023",
         "t":  2
     },
@@ -170,7 +177,7 @@
     {
         "id":  4078,
         "q":  "Покупатель хочет покрасить потолок, ранее окрашенный водно-дисперсионной краcкой. Старое покрытие хорошо держится и не мелит. Краска должна быть глубокоматовой, колеровка не требуется. Какие продукты Finncolor можно предложить?",
-        "a":  "Finncolor Oasis Hall\u0026Office\nFinncolor Oasis Super White",
+        "a":  "Finncolor Oasis Hall&Office\nFinncolor Oasis Super White",
         "d":  "10062024",
         "t":  2
     },
@@ -198,7 +205,7 @@
     {
         "id":  4072,
         "q":  "Покупатель хочет покрасить гипсокартонные стены на кухне. Какие материалы можно предложить?",
-        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen\u0026Gallery\nFinncolor Oasis Wallpaper",
+        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen&Gallery\nFinncolor Oasis Wallpaper",
         "d":  "05032023",
         "t":  2
     },
@@ -226,14 +233,14 @@
     {
         "id":  4068,
         "q":  "Покупателю необходимо заколеровать краску для стен в темный оттенок. Степень блеска не имеет значения. Какие краски подойдут?",
-        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen\u0026Gallery\nFinncolor Oasis Wallpaper\nFinncolor Oasis Hall\u0026Office",
+        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen&Gallery\nFinncolor Oasis Wallpaper\nFinncolor Oasis Hall&Office",
         "d":  "05032023",
         "t":  2
     },
     {
         "id":  4067,
         "q":  "Строители делают ремонт в коридорах административного здания. Необходима краска с высокой устойчивостью к истиранию и мытью (1 класс стойкости). Какие продукты можно предложить?",
-        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen\u0026Gallery\n",
+        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Kitchen&Gallery\n",
         "d":  "07112022",
         "t":  2
     },
@@ -1080,7 +1087,7 @@
     {
         "id":  3500,
         "q":  "Строительная бригада ремонтирует здание школы. Для окраски зашпатлеваннных стен в кабинетах нужна водная краска, которая будет устойчива к мытью и не будет блестеть. Также нужен грунтовочный состав. Посоветуйте систему материалов (грунт  краска).",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery\nFinncolor Moraine Strong\n",
+        "a":  "Finncolor Oasis Kitchen&Gallery\nFinncolor Moraine Strong\n",
         "d":  "29122022",
         "t":  2
     },
@@ -1745,7 +1752,7 @@
     {
         "id":  2733,
         "q":  "Прораб выбирает материалы для ремонта здания школы. Ему нужно в короткий срок окрасить минеральные стены матовой водной краской, устойчивой к частому мытью с моющими средствами. Что из материалов вы порекомендуете?",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery\n",
+        "a":  "Finncolor Oasis Kitchen&Gallery\n",
         "d":  "08062022",
         "t":  2
     },
@@ -2256,7 +2263,7 @@
     {
         "id":  1658,
         "q":  "Для окрашивания потолков и стен офисного помещения клиент выбирает ЛКМ без запаха. Стены планирует окрашивать в светлые оттенки. Предложите клиенту специализированную потолочную краску и краску для стен, устойчивую к уборке с моющими средствами",
-        "a":  "Finncolor Oasis Super White\nFinncolor Oasis Hall\u0026Office\n",
+        "a":  "Finncolor Oasis Super White\nFinncolor Oasis Hall&Office\n",
         "d":  "08062022",
         "t":  2
     },
@@ -2774,7 +2781,7 @@
     {
         "id":  1121,
         "q":  "Подрядчик выбирает краску для окрашивания стен офиса в насыщенный цвет. Предложите подходящие материалы.",
-        "a":  "Finncolor Oasis Hall\u0026Office \nFinncolor Oasis Kitchen\u0026Gallery\n",
+        "a":  "Finncolor Oasis Hall&Office \nFinncolor Oasis Kitchen&Gallery\n",
         "d":  "29122022",
         "t":  2
     },
@@ -2808,7 +2815,7 @@
     },
     {
         "id":  1116,
-        "q":  "Выберите верные утверждения: Finncolor Oasis Kitchen\u0026Gallery",
+        "q":  "Выберите верные утверждения: Finncolor Oasis Kitchen&Gallery",
         "a":  "Матовая краска с шелковистым эффектом, устойчивая к многократному мытью с применением бытовых неабразивных моющих средств \nМожет быть использована в помещениях общественного и коммерческого назначения\n",
         "d":  "29122022",
         "t":  2
@@ -3361,7 +3368,7 @@
     },
     {
         "id":  995,
-        "q":  "Выберите верные утверждение: Finncolor Oasis Hall \u0026 Office.",
+        "q":  "Выберите верные утверждение: Finncolor Oasis Hall & Office.",
         "a":  "Подходит для применения в жилых помещениях, и помещениях коммерческого назначения\n",
         "d":  "11052022",
         "t":  2
@@ -3824,7 +3831,7 @@
     {
         "id":  888,
         "q":  "Клиент хочет окрасить стены в гостиной в синий цвет. При выборе предпочтение отдаст краске без запаха. Какие материалы подойдут?",
-        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Hall\u0026Office\n",
+        "a":  "Finncolor Oasis Bathroom\nFinncolor Oasis Hall&Office\n",
         "d":  "08062022",
         "t":  2
     },
@@ -3845,14 +3852,14 @@
     {
         "id":  881,
         "q":  "Клиенту нужна краска тёмно- красного цвета без запаха для стен коридоров гостиницы. Какие краски можно посоветовать?",
-        "a":  "Finncolor Oasis Hall\u0026Office\nFinncolor Oasis Kitchen\u0026Gallery\n",
+        "a":  "Finncolor Oasis Hall&Office\nFinncolor Oasis Kitchen&Gallery\n",
         "d":  "29122022",
         "t":  2
     },
     {
         "id":  880,
         "q":  "Требуется окрасить стены в детском саду в яркие цвета. В дальнейшем стены предполагается регулярно мыть. Какие краски предложить?",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery \nFinncolor Oasis Kids Interior\n",
+        "a":  "Finncolor Oasis Kitchen&Gallery \nFinncolor Oasis Kids Interior\n",
         "d":  "08062022",
         "t":  2
     },
@@ -3880,7 +3887,7 @@
     {
         "id":  876,
         "q":  "Поступил выгодный заказ на окраску стен ресторана. Нужны быстро высыхающие краски без запаха. Предполагается использовать яркие насыщенные цвета. Какие краски подойдут?",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery\n",
+        "a":  "Finncolor Oasis Kitchen&Gallery\n",
         "d":  "29122022",
         "t":  2
     },
@@ -5014,14 +5021,14 @@
     {
         "id":  32,
         "q":  "Сопоставьте продукт и степень блеска, в которой выпускается продукт:",
-        "a":  "Finncolor Garden Aqua Radiator - глянцевая\nFinncolor Oasis Oasis Wallpaper - глубокоматовая\nFinncolor Oasis Kitchen\u0026 Gallery - матовая\nFinncolor Oasis Oasis Bathroom - полуматовая",
+        "a":  "Finncolor Garden Aqua Radiator - глянцевая\nFinncolor Oasis Oasis Wallpaper - глубокоматовая\nFinncolor Oasis Kitchen& Gallery - матовая\nFinncolor Oasis Oasis Bathroom - полуматовая",
         "d":  "13082025",
         "t":  2
     },
     {
         "id":  33,
         "q":  "Покупателю необходима краска тёмно-синего цвета для стен в помещении. Степень блеска не имеет значения. Какие краски подойдут?",
-        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall\u0026Office",
+        "a":  "Finncolor Oasis Wallpaper\nFinncolor Oasis Hall&Office",
         "d":  "07052024",
         "t":  2
     },
@@ -5161,7 +5168,7 @@
     {
         "id":  53,
         "q":  "Сопоставьте продукт и класс стойкости к мокрому истиранию:",
-        "a":  "Finncolor Oasis Kitchen\u0026 Gallery - 1й класс\nFinncolor Oasis Hall\u0026Office - 2й класс\nНет такого продукта в ассортименте Finncolor - 3й класс\nFinncolor Oasis Super White - сухая уборка",
+        "a":  "Finncolor Oasis Kitchen& Gallery - 1й класс\nFinncolor Oasis Hall&Office - 2й класс\nНет такого продукта в ассортименте Finncolor - 3й класс\nFinncolor Oasis Super White - сухая уборка",
         "d":  "10092025",
         "t":  2
     },
@@ -5588,7 +5595,7 @@
     {
         "id":  97,
         "q":  "Сопоставь продукт и его ключевые преимущества:",
-        "a":  "Finncolor Garden Aqua - рекомендовано для детских игрушек\nFinncolor Garden Aqua Radiator - выдерживает кратковременный (до 3 часов) нагрев до 150°С\nFinncolor Mineral Gamma - высокая атмосферостойкость, светостойкость и укрывистость\nFinncolor Oasis Kids\u0026Bedroom - воск в составе обеспечивает лёгкость удаления загрязнений",
+        "a":  "Finncolor Garden Aqua - рекомендовано для детских игрушек\nFinncolor Garden Aqua Radiator - выдерживает кратковременный (до 3 часов) нагрев до 150°С\nFinncolor Mineral Gamma - высокая атмосферостойкость, светостойкость и укрывистость\nFinncolor Oasis Kids&Bedroom - воск в составе обеспечивает лёгкость удаления загрязнений",
         "d":  "13082025",
         "t":  2
     },
@@ -5602,7 +5609,7 @@
     {
         "id":  99,
         "q":  "Какие краски подойдут для стен в детской?",
-        "a":  "Finncolor Oasis Kitchen\u0026Gallery\nFinncolor Oasis Kids\u0026Bedroom\nFinncolor Oasis Oasis Wallpaper",
+        "a":  "Finncolor Oasis Kitchen&Gallery\nFinncolor Oasis Kids&Bedroom\nFinncolor Oasis Oasis Wallpaper",
         "d":  "13082025",
         "t":  2
     },
@@ -5924,7 +5931,7 @@
     {
         "id":  145,
         "q":  "Покупатель хочет покрасить деревянные стены в гостиной. Краска нужна кроющая, на водной основе. Какие продукты согласно ТХ можно предложить?",
-        "a":  "Finncolor Oasis Kids\u0026Bedroom\nFinncolor Oasis Wallpaper\nFinncolor Garden Aqua",
+        "a":  "Finncolor Oasis Kids&Bedroom\nFinncolor Oasis Wallpaper\nFinncolor Garden Aqua",
         "d":  "05112025",
         "t":  2
     },
@@ -5965,7 +5972,7 @@
     },
     {
         "id":  151,
-        "q":  "Есть ли в составе краски Finncolor Oasis Kids\u0026Bedroom воск?",
+        "q":  "Есть ли в составе краски Finncolor Oasis Kids&Bedroom воск?",
         "a":  "Да",
         "d":  "07112025",
         "t":  1
